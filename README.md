@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Piyush Saxena 👋
 
-<!--
-**Piyushsaxena-pi/Piyushsaxena-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** (React.js) moving into the **MERN stack**.
+BCA student from Bareilly, India. I build responsive, mobile-first interfaces
+and I'm now learning to build the backend behind them.
 
-Here are some ideas to get you started:
+## 🛠 Tech I use
+**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React.js · Bootstrap
+**Learning now:** Node.js · Express.js · MongoDB · Redux · Next.js · Python
+**Tools:** Git · GitHub · Vercel · VS Code · Canva · Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- 🌦 **[Weather App](https://github.com/Piyushsaxena-pi/Weather-App)** · [Live demo](https://weather-app-iota-eight-25.vercel.app)
+  React + OpenWeatherMap · city/state/country search, °C/°F toggle, dark/light theme
+- 🛍 **[Myntra Clone](https://github.com/Piyushsaxena-pi/Myntra-Clone)** · [Live demo](https://myntra-clone-bay-one.vercel.app)
+  React + Javascript , search, add to cart 
+- 🎮 **[Bat-Ball-Stump Game](https://github.com/Piyushsaxena-pi/Bat-Ball-Stump-game)** · JavaScript browser game
+- 🧮 **[Calculator](https://github.com/Piyushsaxena-pi/Calculator)** · Perform all arithmetic opertions
+
+## 🎯 Currently
+- Building a full-stack MERN project: [Smart Car Management System, person can take car on rent without driver ]
+- Learning Python alongside it
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/piyush-saxena-394819334) · piyushsaxena440@gmail.com
