@@ -1,4 +1,4 @@
-# Hi, I'm Piyush Saxena 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5de8f36b-fd39-4348-9a06-cb02c24805e0" /># Hi, I'm Piyush Saxena 👋
 
 **Frontend Developer** (React.js) moving into the **MERN stack**.
 BCA student from Bareilly, India. I build responsive, mobile-first interfaces
@@ -14,7 +14,7 @@ and I'm now learning to build the backend behind them.
   React + OpenWeatherMap · city/state/country search, °C/°F toggle, dark/light theme
 - 🛍 **[Myntra Clone](https://github.com/Piyushsaxena-pi/Myntra-Clone)** · [Live demo](https://myntra-clone-bay-one.vercel.app)
   React + Javascript , search, add to cart 
-- 🎮 **[Quiz App](https://github.com/Piyushsaxena-pi/quiz-app)** ·  [Live demo](https://quiz-app-ten-topaz-44.vercel.app/quiz.html)  HTML + CSS + JavaScript, live progress bar, timer-based quiz, countdown timer, results screen with score breakdown.
+-  **[Quiz App](https://github.com/Piyushsaxena-pi/quiz-app)** ·  [Live demo](https://quiz-app-ten-topaz-44.vercel.app/quiz.html)  HTML + CSS + JavaScript, live progress bar, timer-based quiz, countdown timer, results screen with score breakdown.
 - 🧮 **[Calculator](https://github.com/Piyushsaxena-pi/Calculator)** · Perform all arithmetic opertions
 
 ## 🎯 Currently
