@@ -14,7 +14,7 @@ and I'm now learning to build the backend behind them.
   React + OpenWeatherMap · city/state/country search, °C/°F toggle, dark/light theme
 - 🛍 **[Myntra Clone](https://github.com/Piyushsaxena-pi/Myntra-Clone)** · [Live demo](https://myntra-clone-bay-one.vercel.app)
   React + Javascript , search, add to cart 
-- 🎮 **[Bat-Ball-Stump Game](https://github.com/Piyushsaxena-pi/Bat-Ball-Stump-game)** · JavaScript browser game
+- 🎮 **[Quiz App](https://github.com/Piyushsaxena-pi/quiz-app)** ·  [Live demo](https://quiz-app-ten-topaz-44.vercel.app/quiz.html)  HTML + CSS + JavaScript, live progress bar, timer-based quiz, countdown timer, results screen with score breakdown.
 - 🧮 **[Calculator](https://github.com/Piyushsaxena-pi/Calculator)** · Perform all arithmetic opertions
 
 ## 🎯 Currently
