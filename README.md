@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5de8f36b-fd39-4348-9a06-cb02c24805e0" /># Hi, I'm Piyush Saxena 👋
+# Hi, I'm Piyush Saxena 👋
 
 **Frontend Developer** (React.js) moving into the **MERN stack**.
 BCA student from Bareilly, India. I build responsive, mobile-first interfaces
